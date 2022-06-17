@@ -1,0 +1,76 @@
+.container-me {
+    align-items: center;
+    background: #fff;
+    border-bottom: 0;
+    bottom: 0;
+    color: #272341;
+    display: flex;
+    font-weight: 400;
+    height: 100vh;
+    left: 0;
+    margin-bottom: 0;
+    min-height: 100vh;
+    padding: 0 5.6rem;
+    right: 0;
+    top: 0;
+    z-index: -1;
+}
+
+h1 {
+	color: #272341;;
+	font-weight: 900;
+    margin-bottom: 3.2rem;
+    text-align: left;
+    line-height: 1.2;
+    font-size: 3.5rem;
+}
+
+.m-pe {
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
+    color:#00cdac;
+}
+.bg-about {
+    border: 2px solid transparent;
+    border-image: linear-gradient(135deg,#02aab0,#00cdac);
+    border-image-slice: 1;
+    text-decoration: none;
+    color:#00cdac;
+}
+.btn-about {
+    display: inline-block;
+    font-weight: 700;
+    line-height: 1;
+    padding: 0.8rem 1.6rem;
+    position: relative;
+    transition: all .6s cubic-bezier(.19,1,.22,1);
+    z-index: 1;
+}
+.myName {
+    color:#00cdac;
+}
+
+ 
+@media screen and (max-width: 576px) { 
+    h1 {
+        font-size: 3.5rem;
+        line-height: 1.5;
+    }
+}
+
+@media screen and  (max-width: 480px) { 
+    h1 {
+        margin-top: 10%;
+        font-size: 2.8rem;
+    }
+}
+
+@media screen and (max-width: 375px) { 
+    h1 {
+        font-size: 2.8rem;
+    }
+    .m-pe{
+        font-size: 1.5rem;
+    }
+}
+

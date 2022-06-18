@@ -1,6 +1,7 @@
 import React from 'react';
 import me from '../assets/image.png';
 import '../styles/about.css';
+import CV from '../assets/cv.pdf';
 
 const About = () => {
     return (
@@ -29,7 +30,7 @@ const About = () => {
                                 I easily adapt to changes that arise.
                             </p>
                             <span className='btn-resume'>
-                                <a rel='noreferrer' target='_blank' href='../assets/cv.pdf'>
+                                <a rel='noreferrer' target='_blank' href={CV}>
                                     View Resume
                                 </a>
                             </span>

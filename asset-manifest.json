@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolioFerreyra/static/css/main.9d22b6ef.css",
+    "main.js": "/portfolioFerreyra/static/js/main.ad273580.js",
+    "static/media/marvel.mp4": "/portfolioFerreyra/static/media/marvel.07009cf66b33ff49f58f.mp4",
+    "static/media/apiFood.mp4": "/portfolioFerreyra/static/media/apiFood.b83f8021c97b3baf0044.mp4",
+    "static/media/marvel.PNG": "/portfolioFerreyra/static/media/marvel.a51453f4b26696ce6c1e.PNG",
+    "static/media/vegallones.PNG": "/portfolioFerreyra/static/media/vegallones.3fbf63976774c9f214e7.PNG",
+    "static/media/landing.PNG": "/portfolioFerreyra/static/media/landing.635bdd78e95fe1a22c90.PNG",
+    "static/media/pizza-app.PNG": "/portfolioFerreyra/static/media/pizza-app.e3fdac06216fa537e7b5.PNG",
+    "static/media/image.png": "/portfolioFerreyra/static/media/image.41b749b8c3f6f83c98e7.png",
+    "static/media/cv.pdf": "/portfolioFerreyra/static/media/cv.2d4156ddc7bc83c70933.pdf",
+    "index.html": "/portfolioFerreyra/index.html",
+    "main.9d22b6ef.css.map": "/portfolioFerreyra/static/css/main.9d22b6ef.css.map",
+    "main.ad273580.js.map": "/portfolioFerreyra/static/js/main.ad273580.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d22b6ef.css",
+    "static/js/main.ad273580.js"
+  ]
+}

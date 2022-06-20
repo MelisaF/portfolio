@@ -6,9 +6,6 @@ import { MdEmail } from 'react-icons/md';
 function Footer() {
     return (
         <div id='footer' className="footer">
-            <a href="top" className="icon-arrow">
-                <BsArrowUp  />
-            </a>
             <div className="socialMedia">
                 <a href="https://github.com/MelisaF" target="_blank" rel="noreferrer"> <BsGithub className="icon"/> </a>
                 <a href="https://www.linkedin.com/in/melisa-ferreyra/" target="_blank" rel="noreferrer"> <BsLinkedin /> </a>

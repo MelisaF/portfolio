@@ -1,8 +1,7 @@
 import React from "react";
 import "../styles/footer.css";
-import { BsLinkedin, BsGithub } from 'react-icons/bs';
+import { BsLinkedin, BsGithub, BsArrowUp} from 'react-icons/bs';
 import { MdEmail } from 'react-icons/md';
-import { BsArrowUp } from 'react-icons/bs';
 
 function Footer() {
     return (

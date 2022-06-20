@@ -75,8 +75,22 @@
         height: auto;
         max-width: 100%;
     }
+    .projects--h3 {
+        width: 80%;
+    }
+    .btn-projects {
+        justify-content: center;
+    }
 }
 
+@media screen and (max-width: 450px) {
+    .projects--h3 {
+        width: 80%;
+    }
+    .btn-projects {
+        justify-content: center;
+    }
+}
 
 @media screen and (max-width: 375px) {
     .container__projects{

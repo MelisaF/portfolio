@@ -124,7 +124,14 @@
     }
 }
 
-
+@media screen and (max-width:450px) { 
+    .about-text p {
+        font-size: 1rem;
+    }
+    .btn-resume {
+        width: 26%;
+    }
+}
 @media screen and (max-width:375px) { 
     .about_wrapper {
         flex-direction: column;

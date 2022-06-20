@@ -132,6 +132,12 @@
         width: 26%;
     }
 }
+
+@media screen and (max-width: 433px) and (min-width: 376px) {
+    .btn-resume {
+        width: 30%;
+    }
+}
 @media screen and (max-width:375px) { 
     .about_wrapper {
         flex-direction: column;

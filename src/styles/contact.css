@@ -111,6 +111,11 @@ textarea {
         font-size: 1rem;
     }
 }
+@media screen and (max-width: 433px) and (min-width: 376px) {
+    .btn-form {
+        width: 60%;
+    }
+}
 @media screen and (max-width: 375px) {
     .container-contact {
         flex-direction: column;

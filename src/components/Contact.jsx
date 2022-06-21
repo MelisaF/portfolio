@@ -12,9 +12,9 @@ const Contact = () => {
                 </div>
                 <form method='POST' action="https://getform.io/f/d71d5fd7-d37c-4305-b2d7-651bafffbb3a">
                     <div>
-                        <input type="text" placeholder='Name' name='name'  />
-                        <input type="email" placeholder='Email' name='email' />
-                        <textarea name="message" rows="10" type="text" placeholder='Message'></textarea>
+                        <input type="text" name='name' placeholder='Name'/>
+                        <input type="email" name='email' placeholder='Email'/>
+                        <textarea type="text" name="message" rows="10"  placeholder='Message'></textarea>
                     </div>
                     <button className='btn-form'>
                         Contact me
